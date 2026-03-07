@@ -1,0 +1,41 @@
+{
+  "说明": "按顺序匹配，先匹配到的目标优先。关键词匹配 标题 + 类型 + 主题标签；可编辑 keywords 或调整顺序。目标键与 docs/蒸馏归属目标.md 一致。",
+  "rules": [
+    {
+      "target": "ENERGY_STORAGE",
+      "keywords": ["储能", "户储", "储能产业链", "储能投资", "储能政策", "电力设备", "变压器", "电网投资", "水能微电网", "氢能", "光伏", "Lunar Energy", "电池"]
+    },
+    {
+      "target": "FINANCIALS",
+      "keywords": ["财务", "金融", "估值", "报表", "资本", "现金流", "融资", "投资策略", "市场数据", "诉讼", "Bitcoin", "比特", "金银支付", "贵金属", "黄金", "白银", "ETF", "黑石", "Oaktree", "Apollo", "Cathie Wood", "经济", "宏观经济"]
+    },
+    {
+      "target": "STARTUP",
+      "keywords": ["PMF", "GTM", "创业", "领导力", "商业模式", "增长", "科创", "市场进入", "出海", "融资", "Purpose", "legacy"]
+    },
+    {
+      "target": "CRISIS_MANAGEMENT",
+      "keywords": ["危机", "预警", "处置", "复盘", "培训", "企业场景"]
+    },
+    {
+      "target": "MARKETING",
+      "keywords": ["品牌", "定位", "获客", "渠道", "销售", "内容营销", "传播", "客户洞察", "留存", "营销组织"]
+    },
+    {
+      "target": "PRODUCT_DEVELOPMENT",
+      "keywords": ["智能体构建", "多智能体", "Skill", "Agent设计", "调度", "知识库规划", "线上分析产品"]
+    },
+    {
+      "target": "KNOWLEDGE_LOGIC",
+      "keywords": ["知识论", "逻辑学", "论证", "证据类型", "认识论"]
+    },
+    {
+      "target": "QUANT_ANALYSIS",
+      "keywords": ["量化", "统计", "回归", "时间序列", "贝叶斯"]
+    },
+    {
+      "target": "INDUSTRY",
+      "keywords": []
+    }
+  ]
+}

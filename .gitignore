@@ -1,0 +1,19 @@
+# 环境与密钥（勿提交）
+.env
+.env.distill
+*.env.local
+scripts/.env.distill
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+venv/
+.venv/
+
+# 运行时/生成产物（可选：若希望仓库内不含具体内容可取消注释）
+# 待蒸馏/*.md
+# 蒸馏产出_待归属/*.md
+# distill_input_history.json
+# 迁移映射_*.csv
