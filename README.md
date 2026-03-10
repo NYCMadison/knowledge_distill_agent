@@ -77,6 +77,19 @@ python assign_and_migrate.py --dry-run
 python assign_and_migrate.py --migrate
 ```
 
+### 每日自动化（固定长期分支）
+
+使用同一个长期分支运行每日任务，避免每次触发都生成新分支：
+
+```bash
+LONG_BRANCH=bot/daily-distill DISTILL_TARGET=100 bash scripts/run_daily_pipeline.sh
+```
+
+可选变量：
+- `LONG_BRANCH`：长期分支名（默认 `bot/daily-distill`）
+- `DISTILL_TARGET`：批量蒸馏目标条数（默认 `100`）
+- `PYTHON_BIN`：Python 可执行文件（默认 `python3`）
+
 ---
 
 ## 五、信息源管理
