@@ -31,6 +31,7 @@ USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36
 CONTENT_PATH_KEYWORDS = (
     "report", "case", "study", "resource", "article", "blog", "paper", "course",
     "knowledge", "hub", "database", "toolkit", "microgrid", "semiconductor", "energy",
+    "podcast", "podcasts", "vc", "venture", "invest", "founder", "essay", "post",
 )
 
 
