@@ -950,5 +950,720 @@
     "content_hash": "f7e3a5150c57ed8f3db1c79ada8ecd5b0d543f854b09e1170fe56cbe795b3a3c",
     "first_seen_at": "2026-03-11T01:03:43.481295Z",
     "distilled_at": "2026-03-11T01:03:43.481295Z"
+  },
+  {
+    "id": "https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams",
+    "source_type": "feed_entry",
+    "first_seen_at": "2026-03-12T16:01:36Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://www.theverge.com/column/893526/meta-vr-games-teens",
+    "source_type": "feed_entry",
+    "first_seen_at": "2026-03-12T16:01:36Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://www.theverge.com/news/893755/microsoft-rajesh-jha-retirement-head-of-experiences-and-devices-shakeup",
+    "source_type": "feed_entry",
+    "first_seen_at": "2026-03-12T16:01:36Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://www.theverge.com/entertainment/893751/video-game-age-ratings-pegi-loot-boxes",
+    "source_type": "feed_entry",
+    "first_seen_at": "2026-03-12T16:01:36Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://www.theverge.com/tech/893766/wordpress-browser-website-creator",
+    "source_type": "feed_entry",
+    "first_seen_at": "2026-03-12T16:01:36Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://www.theverge.com/transportation/893058/rivian-r2-price-specs-range-performance-charging",
+    "source_type": "feed_entry",
+    "first_seen_at": "2026-03-12T16:01:36Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://www.theverge.com/tech/893133/dyson-spot-scrub-ai-robot-vacuum-mop-lasers-multifunction-dock-availability-price",
+    "source_type": "feed_entry",
+    "first_seen_at": "2026-03-12T16:01:36Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://www.theverge.com/transportation/893750/honda-zero-ev-cancel-tariff-acura",
+    "source_type": "feed_entry",
+    "first_seen_at": "2026-03-12T16:01:36Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://www.theverge.com/gadgets/893597/iphone-air-17-pro-samsung-galaxy-pixel-fold-flip-phone-cases-sale-deal",
+    "source_type": "feed_entry",
+    "first_seen_at": "2026-03-12T16:01:36Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://www.theverge.com/podcast/893370/anthropic-pentagon-ai-mass-surveillance-nsa-privacy-spying",
+    "source_type": "feed_entry",
+    "first_seen_at": "2026-03-12T16:01:36Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://www.technologyreview.com/2026/03/12/1134207/the-download-china-openclaw-ai-craze-us-battery-industry-downturn/",
+    "source_type": "feed_entry",
+    "first_seen_at": "2026-03-12T16:01:36Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/",
+    "source_type": "feed_entry",
+    "first_seen_at": "2026-03-12T16:01:36Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://www.technologyreview.com/2026/03/12/1134197/us-battery-industry/",
+    "source_type": "feed_entry",
+    "first_seen_at": "2026-03-12T16:01:36Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/",
+    "source_type": "feed_entry",
+    "first_seen_at": "2026-03-12T16:01:36Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://www.technologyreview.com/2026/03/11/1134174/the-download-pokemon-go-train-world-models-us-china-race-find-aliens/",
+    "source_type": "feed_entry",
+    "first_seen_at": "2026-03-12T16:01:36Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://www.technologyreview.com/2026/03/10/1134083/building-a-strong-data-infrastructure-for-ai-agent-success/",
+    "source_type": "feed_entry",
+    "first_seen_at": "2026-03-12T16:01:36Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://www.nrel.gov/news/podcast",
+    "source_type": "url",
+    "first_seen_at": "2026-03-12T16:01:37Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://www.nrel.gov/careers/post-docs",
+    "source_type": "url",
+    "first_seen_at": "2026-03-12T16:01:38Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://cordis.europa.eu/videos-podcasts",
+    "source_type": "url",
+    "first_seen_at": "2026-03-12T16:01:48Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://cordis.europa.eu/article/id/463725-building-a-powerful-eu-wide-network-for-climate-resilience",
+    "source_type": "url",
+    "first_seen_at": "2026-03-12T16:01:49Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://www.sandia.gov/careers/career-possibilities/students-and-postdocs/",
+    "source_type": "url",
+    "first_seen_at": "2026-03-12T16:01:52Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://semiengineering.com/data-driven-optimization-in-semiconductor-manufacturing/",
+    "source_type": "url",
+    "first_seen_at": "2026-03-12T16:02:05Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://www.ycombinator.com/blog/adding-canada-back/",
+    "source_type": "feed_entry",
+    "first_seen_at": "2026-03-12T16:02:19Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://www.ycombinator.com/blog/congratulations-to-equipmentshare/",
+    "source_type": "feed_entry",
+    "first_seen_at": "2026-03-12T16:02:19Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://www.ycombinator.com/blog/the-yc-ai-student-starter-pack/",
+    "source_type": "feed_entry",
+    "first_seen_at": "2026-03-12T16:02:19Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://www.ycombinator.com/blog/2026-demo-days/",
+    "source_type": "feed_entry",
+    "first_seen_at": "2026-03-12T16:02:19Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://sequoiacap.com/article/partnering-with-scanner-every-log-tells-a-story-if-you-can-find-it-fast-enough/",
+    "source_type": "feed_entry",
+    "first_seen_at": "2026-03-12T16:02:19Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://sequoiacap.com/article/services-the-new-software/",
+    "source_type": "feed_entry",
+    "first_seen_at": "2026-03-12T16:02:19Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://sequoiacap.com/article/partnering-with-firetiger-validation-at-the-speed-of-ai/",
+    "source_type": "feed_entry",
+    "first_seen_at": "2026-03-12T16:02:19Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://sequoiacap.com/article/the-opening-midgame-and-endgame-in-startups/",
+    "source_type": "feed_entry",
+    "first_seen_at": "2026-03-12T16:02:19Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://sequoiacap.com/article/partnering-with-waymo/",
+    "source_type": "feed_entry",
+    "first_seen_at": "2026-03-12T16:02:19Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://sequoiacap.com/article/partnering-with-flapping-airplanes/",
+    "source_type": "feed_entry",
+    "first_seen_at": "2026-03-12T16:02:19Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://sequoiacap.com/article/partnering-with-pace-making-work-weightless/",
+    "source_type": "feed_entry",
+    "first_seen_at": "2026-03-12T16:02:19Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://sequoiacap.com/article/the-most-precious-resource/",
+    "source_type": "feed_entry",
+    "first_seen_at": "2026-03-12T16:02:19Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://sequoiacap.com/article/2026-this-is-agi/",
+    "source_type": "feed_entry",
+    "first_seen_at": "2026-03-12T16:02:19Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://sequoiacap.com/article/blues-makes-every-thing-smarter/",
+    "source_type": "feed_entry",
+    "first_seen_at": "2026-03-12T16:02:19Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://greylock.com/blog/",
+    "source_type": "url",
+    "first_seen_at": "2026-03-12T16:02:20Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://a16z.com/announcement/investing-in-mind-robotics/",
+    "source_type": "url",
+    "first_seen_at": "2026-03-12T16:02:21Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://a16z.com/announcement/investing-in-nexthop/",
+    "source_type": "url",
+    "first_seen_at": "2026-03-12T16:02:22Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://a16z.com/podcasts/",
+    "source_type": "url",
+    "first_seen_at": "2026-03-12T16:02:22Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "http://blog.samaltman.com/posts.atom",
+    "source_type": "url",
+    "first_seen_at": "2026-03-12T16:02:24Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://www.sequoiacap.com/our-founders/",
+    "source_type": "url",
+    "first_seen_at": "2026-03-12T16:02:28Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://www.ycombinator.com/blog",
+    "source_type": "url",
+    "first_seen_at": "2026-03-12T16:02:29Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://www.ycombinator.com/investors",
+    "source_type": "url",
+    "first_seen_at": "2026-03-12T16:02:29Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://www.ycombinator.com/cofounder-matching",
+    "source_type": "url",
+    "first_seen_at": "2026-03-12T16:02:30Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://www.ycombinator.com/blog/the-yc-ai-student-starter-pack",
+    "source_type": "url",
+    "first_seen_at": "2026-03-12T16:02:30Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "http://www.paulgraham.com/foundermode.html",
+    "source_type": "url",
+    "first_seen_at": "2026-03-12T16:02:31Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://www.kleinerperkins.com/people/investors/",
+    "source_type": "url",
+    "first_seen_at": "2026-03-12T16:02:33Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://www.kleinerperkins.com/podcasts/",
+    "source_type": "url",
+    "first_seen_at": "2026-03-12T16:02:33Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://www.kleinerperkins.com/perspectives/internet-trends-report-2018/",
+    "source_type": "url",
+    "first_seen_at": "2026-03-12T16:02:33Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://www.kleinerperkins.com/case-study/loom/",
+    "source_type": "url",
+    "first_seen_at": "2026-03-12T16:02:34Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://www.kleinerperkins.com/case-study/rippling/",
+    "source_type": "url",
+    "first_seen_at": "2026-03-12T16:02:34Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://www.kleinerperkins.com/case-study/figma-design/",
+    "source_type": "url",
+    "first_seen_at": "2026-03-12T16:02:34Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://www.kleinerperkins.com/case-study/amazon/",
+    "source_type": "url",
+    "first_seen_at": "2026-03-12T16:02:35Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "https://www.kleinerperkins.com/case-study/glean/",
+    "source_type": "url",
+    "first_seen_at": "2026-03-12T16:02:35Z",
+    "distilled_at": ""
+  },
+  {
+    "id": "/workspace/待蒸馏/feed_20260312_2026_Demo_Day_Dates_Y_Combinator_Blog.md.md",
+    "source_type": "document",
+    "content_hash": "50e53e523132855b0762db65047cd50dd3b8a5769f05d38d99791adaec78e1cf",
+    "first_seen_at": "2026-03-12T16:03:50.572689Z",
+    "distilled_at": "2026-03-12T16:03:50.572689Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/feed_20260312_2026_This_is_AGI_Sequoia_Capital.md.md",
+    "source_type": "document",
+    "content_hash": "d418579e6091de5afdfd0aa4c84eac8d6f18106f43044841c28aad3075ca71cf",
+    "first_seen_at": "2026-03-12T16:04:45.736953Z",
+    "distilled_at": "2026-03-12T16:04:45.736953Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/feed_20260312_Adding_Canada_Back_to_Our_List_of_Accept_Y_Combinator_Blog.md.md",
+    "source_type": "document",
+    "content_hash": "61d60eb9c762d34ef45f4631274ddf3672fd2d6352946ba802ba8c0c930a3234",
+    "first_seen_at": "2026-03-12T16:05:27.287709Z",
+    "distilled_at": "2026-03-12T16:05:27.287709Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/feed_20260312_Announcing_the_YC_AI_Stack_Y_Combinator_Blog.md.md",
+    "source_type": "document",
+    "content_hash": "6ebdd871d92f31434cb2a0ab7d6f501392bbc125cf95801bca336c23238f4313",
+    "first_seen_at": "2026-03-12T16:06:20.586104Z",
+    "distilled_at": "2026-03-12T16:06:20.586104Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/feed_20260312_Anthropic_8217_s_Claude_AI_can_respond_w_The_Verge.md.md",
+    "source_type": "document",
+    "content_hash": "c94359ec26f0f821a656f71de601222264ce9edcca7626fd2851999f9bde639f",
+    "first_seen_at": "2026-03-12T16:07:10.808290Z",
+    "distilled_at": "2026-03-12T16:07:10.808290Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/feed_20260312_Anthropic_doesn_t_trust_the_Pentagon_and_The_Verge.md.md",
+    "source_type": "document",
+    "content_hash": "7cf50bb87329053e6c442f37f0291b4a044897682ecde92c4be8341b6dd5177a",
+    "first_seen_at": "2026-03-12T16:08:16.562079Z",
+    "distilled_at": "2026-03-12T16:08:16.562079Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/feed_20260312_Blues_Makes_Every_Thing_Smarter_Sequoia_Capital.md.md",
+    "source_type": "document",
+    "content_hash": "16cf89cc4439a097436de9b507a6db303ce23eb357edbc1bb3af5493692f0e1d",
+    "first_seen_at": "2026-03-12T16:09:35.162640Z",
+    "distilled_at": "2026-03-12T16:09:35.162640Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/feed_20260312_Brutal_times_for_the_US_battery_industry_MIT_Technology_Revie.md.md",
+    "source_type": "document",
+    "content_hash": "4b866c5cee4385921e43e37d765da685536fe63e9fd6f644d511aa1832cc9749",
+    "first_seen_at": "2026-03-12T16:10:36.050743Z",
+    "distilled_at": "2026-03-12T16:10:36.050743Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/feed_20260312_Building_a_strong_data_infrastructure_fo_MIT_Technology_Revie.md.md",
+    "source_type": "document",
+    "content_hash": "61f2e10c0fb7ed3e7dbb89728dfe53c2fcfae730ad70c07f54f2a53dde5187f2",
+    "first_seen_at": "2026-03-12T16:11:43.421043Z",
+    "distilled_at": "2026-03-12T16:11:43.421043Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/feed_20260312_Congratulations_to_EquipmentShare_on_Goi_Y_Combinator_Blog.md.md",
+    "source_type": "document",
+    "content_hash": "d520307b9ae0fdbf16304b2e1ed17f8633734446ff92c50c947f1408cad83991",
+    "first_seen_at": "2026-03-12T16:12:52.228216Z",
+    "distilled_at": "2026-03-12T16:12:52.228216Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/feed_20260312_Dyson_s_new_stain-spotting_AI_robovac_is_The_Verge.md.md",
+    "source_type": "document",
+    "content_hash": "72d6e2a2988fb3cb266263b360657f350f7d895fc3bbd84165a612bb1a6454b5",
+    "first_seen_at": "2026-03-12T16:13:55.486006Z",
+    "distilled_at": "2026-03-12T16:13:55.486006Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/feed_20260312_Honda_cancels_Zero_Series_EVs_citing_ext_The_Verge.md.md",
+    "source_type": "document",
+    "content_hash": "bd6fecf90d8c79ad8c4aa34f020aff5b8e23623dbf1f2415bcf9d8c130152256",
+    "first_seen_at": "2026-03-12T16:14:49.376777Z",
+    "distilled_at": "2026-03-12T16:14:49.376777Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/feed_20260312_Hustlers_are_cashing_in_on_China_s_OpenC_MIT_Technology_Revie.md.md",
+    "source_type": "document",
+    "content_hash": "143905410b3538f2bd55f872c00ff2a28880584e1c5f9b68e1aaec65f60326b7",
+    "first_seen_at": "2026-03-12T16:15:45.118201Z",
+    "distilled_at": "2026-03-12T16:15:45.118201Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/feed_20260312_Meta_exec_hopes_VR_teens_will_stick_arou_The_Verge.md.md",
+    "source_type": "document",
+    "content_hash": "209fefd278f84e82c97ff06824d76e86b741057043025918148eb6153e373dfa",
+    "first_seen_at": "2026-03-12T16:16:48.401901Z",
+    "distilled_at": "2026-03-12T16:16:48.401901Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/feed_20260312_Microsoft_8217_s_head_of_experiences_and_The_Verge.md.md",
+    "source_type": "document",
+    "content_hash": "21861973918966c9d0d5dc109c7e8fb9950cc76e51b27fa6afc4fef6db277eec",
+    "first_seen_at": "2026-03-12T16:17:43.842040Z",
+    "distilled_at": "2026-03-12T16:17:43.842040Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/feed_20260312_Once-overpriced_iPhone_Air_and_Galaxy_S2_The_Verge.md.md",
+    "source_type": "document",
+    "content_hash": "d10d5f34026d93f2f386634b1c97ab3c44fc986354f2bf89a583fd42788a3762",
+    "first_seen_at": "2026-03-12T16:18:37.961500Z",
+    "distilled_at": "2026-03-12T16:18:37.961500Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/feed_20260312_PEGI_8217_s_new_age_ratings_will_restric_The_Verge.md.md",
+    "source_type": "document",
+    "content_hash": "ea597cb0bb20617107d7122b1bab342758f3c95aa42befbbc1fe2c2685f8e45e",
+    "first_seen_at": "2026-03-12T16:19:39.298505Z",
+    "distilled_at": "2026-03-12T16:19:39.298505Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/feed_20260312_Partnering_With_Flapping_Airplanes_Sequoia_Capital.md.md",
+    "source_type": "document",
+    "content_hash": "88041171a6bbc2c509b7f6a06741a08a2c7456666c32368325f1cf81f03de8df",
+    "first_seen_at": "2026-03-12T16:21:11.723654Z",
+    "distilled_at": "2026-03-12T16:21:11.723654Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/feed_20260312_Partnering_With_Waymo_Sequoia_Capital.md.md",
+    "source_type": "document",
+    "content_hash": "a9f151bafd7a3a09e9d8680ea92cdbf28ae94ead86be435c970de9da5380a72a",
+    "first_seen_at": "2026-03-12T16:22:20.258551Z",
+    "distilled_at": "2026-03-12T16:22:20.258551Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/feed_20260312_Partnering_with_Firetiger_Validation_at__Sequoia_Capital.md.md",
+    "source_type": "document",
+    "content_hash": "11afe217b5474d1a9c0f3ca975c79c845f032091f23dc67981cbb2bc4f992ccd",
+    "first_seen_at": "2026-03-12T16:23:32.249004Z",
+    "distilled_at": "2026-03-12T16:23:32.249004Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/feed_20260312_Partnering_with_Pace_Making_Work_Weightl_Sequoia_Capital.md.md",
+    "source_type": "document",
+    "content_hash": "e8ea4644924d3009fcaa04fdfeade80f9a35f9f0ec8042a27c8dd0daff5d4f8d",
+    "first_seen_at": "2026-03-12T16:24:50.762699Z",
+    "distilled_at": "2026-03-12T16:24:50.762699Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/feed_20260312_Partnering_with_Scanner_Every_Log_Tells__Sequoia_Capital.md.md",
+    "source_type": "document",
+    "content_hash": "2803122f3014de8889d3db9ad82736d7872e0d49de5ca155fd9a05f3471509e3",
+    "first_seen_at": "2026-03-12T16:26:01.343270Z",
+    "distilled_at": "2026-03-12T16:26:01.343270Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/feed_20260312_Pragmatic_by_design_Engineering_AI_for_t_MIT_Technology_Revie.md.md",
+    "source_type": "document",
+    "content_hash": "11701457ff2d1fc71364dba8fe3c3383843517f53640ec02b4d5e6205a0c6078",
+    "first_seen_at": "2026-03-12T16:26:58.329565Z",
+    "distilled_at": "2026-03-12T16:26:58.329565Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/feed_20260312_Rivian_R2_prices_revealed_you_re_going_t_The_Verge.md.md",
+    "source_type": "document",
+    "content_hash": "92e1a35046695804b9ba448ac1502e7c8d2aa3d9de9f8f837e6ecdc3d416238e",
+    "first_seen_at": "2026-03-12T16:28:12.059335Z",
+    "distilled_at": "2026-03-12T16:28:12.059335Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/feed_20260312_Services_The_New_Software_Sequoia_Capital.md.md",
+    "source_type": "document",
+    "content_hash": "fc65571f85d857735ede397adac91d85aa043ff23b91705d3fc8455bbaced7ba",
+    "first_seen_at": "2026-03-12T16:29:36.824490Z",
+    "distilled_at": "2026-03-12T16:29:36.824490Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/feed_20260312_The_Download_Early_adopters_cash_in_on_C_MIT_Technology_Revie.md.md",
+    "source_type": "document",
+    "content_hash": "dc4b9f6523621e5708eea62a430ec831151609c9647269b5b241038da120369f",
+    "first_seen_at": "2026-03-12T16:30:39.336779Z",
+    "distilled_at": "2026-03-12T16:30:39.336779Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/feed_20260312_The_Download_Pokémon_Go_to_train_world_m_MIT_Technology_Revie.md.md",
+    "source_type": "document",
+    "content_hash": "fa9abcb01517ba744bfd9b40bc9d3e1722084f457ab3eb11c1128d2db3bc76c4",
+    "first_seen_at": "2026-03-12T16:31:34.061017Z",
+    "distilled_at": "2026-03-12T16:31:34.061017Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/feed_20260312_The_Most_Precious_Resource_Sequoia_Capital.md.md",
+    "source_type": "document",
+    "content_hash": "97417ebc79070665e513029069bf5952abe5d9704da69afe17286f7a40a78e6f",
+    "first_seen_at": "2026-03-12T16:32:48.161978Z",
+    "distilled_at": "2026-03-12T16:32:48.161978Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/feed_20260312_The_Opening_Midgame_and_Endgame_in_Start_Sequoia_Capital.md.md",
+    "source_type": "document",
+    "content_hash": "4a2c452a34b047aa2e78aa399b7bdc60fdfbe7f2cfeed48162ba37bc57191617",
+    "first_seen_at": "2026-03-12T16:34:22.001609Z",
+    "distilled_at": "2026-03-12T16:34:22.001609Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/feed_20260312_WordPress_launches_an_in-browser_website_The_Verge.md.md",
+    "source_type": "document",
+    "content_hash": "c77cf8193d9cf9fafe342f7ad08f03318950f6c48fb4bb0af2a7a563225d5136",
+    "first_seen_at": "2026-03-12T16:35:11.766205Z",
+    "distilled_at": "2026-03-12T16:35:11.766205Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/page_20260312_a16z_com_announcement_investing-in-mind.md",
+    "source_type": "document",
+    "content_hash": "d763e80efc6d9079589e2e9f0cb990f224456aa9aaab976609f300a7bd32a1e7",
+    "first_seen_at": "2026-03-12T16:36:50.191651Z",
+    "distilled_at": "2026-03-12T16:36:50.191651Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/page_20260312_a16z_com_announcement_investing-in-next.md",
+    "source_type": "document",
+    "content_hash": "9c37efbabba5d72f6b2827676921aa82fe5ed8697c0797836cf6acd395a0d4a6",
+    "first_seen_at": "2026-03-12T16:38:36.426307Z",
+    "distilled_at": "2026-03-12T16:38:36.426307Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/page_20260312_a16z_com_podcasts.md",
+    "source_type": "document",
+    "content_hash": "7a17c71cf87f14eaceab5a975c8b3fa32277191f0ffcd0d0dceeb51b4f78541c",
+    "first_seen_at": "2026-03-12T16:39:54.794489Z",
+    "distilled_at": "2026-03-12T16:39:54.794489Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/page_20260312_blog_samaltman_com_posts_atom.md",
+    "source_type": "document",
+    "content_hash": "e102f4e016619f4aef88e205b6404936d426c6cbe44ff303259f230a0e076737",
+    "first_seen_at": "2026-03-12T16:41:47.600139Z",
+    "distilled_at": "2026-03-12T16:41:47.600139Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/page_20260312_cordis_europa_eu_article_id_463725-building-a-p.md",
+    "source_type": "document",
+    "content_hash": "e6a9c1e5c3e3e718d1a2e9b42353e5cf74dd84bad47b1dea74226e6957c23129",
+    "first_seen_at": "2026-03-12T16:43:09.550665Z",
+    "distilled_at": "2026-03-12T16:43:09.550665Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/page_20260312_cordis_europa_eu_videos-podcasts.md",
+    "source_type": "document",
+    "content_hash": "3140d3349a350d116d9d7b83f7148c002ed786e6b46f274a7f18ee3b7775054b",
+    "first_seen_at": "2026-03-12T16:44:12.788435Z",
+    "distilled_at": "2026-03-12T16:44:12.788435Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/page_20260312_greylock_com_blog.md",
+    "source_type": "document",
+    "content_hash": "447521e17b385baae82fdeaa205be05775d55927616ec1519e472bdb13efc01f",
+    "first_seen_at": "2026-03-12T16:45:20.358168Z",
+    "distilled_at": "2026-03-12T16:45:20.358168Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/page_20260312_semiengineering_com_data-driven-optimization-in-se.md",
+    "source_type": "document",
+    "content_hash": "f4ae6600bea925d210cbaa693a8079d0a057b28aa7e7ce6a7618f5f7fc528718",
+    "first_seen_at": "2026-03-12T16:46:58.752606Z",
+    "distilled_at": "2026-03-12T16:46:58.752606Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/page_20260312_www_kleinerperkins_com_case-study_amazon.md",
+    "source_type": "document",
+    "content_hash": "6d57e9a420b8e9ce4e72dfcad6a7d794f909c8971e185015829439a7a55bb71d",
+    "first_seen_at": "2026-03-12T16:48:21.484849Z",
+    "distilled_at": "2026-03-12T16:48:21.484849Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/page_20260312_www_kleinerperkins_com_case-study_figma-design.md",
+    "source_type": "document",
+    "content_hash": "05cdb9fef217bd040a83bcd70e6b252a4c3455fdf320919a852717cd479e359c",
+    "first_seen_at": "2026-03-12T16:49:20.108062Z",
+    "distilled_at": "2026-03-12T16:49:20.108062Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/page_20260312_www_kleinerperkins_com_case-study_glean.md",
+    "source_type": "document",
+    "content_hash": "d349eaec9eac15a1fe19b14fffaac7959b93dc369d9a85828418e7eee4d9a0a7",
+    "first_seen_at": "2026-03-12T16:51:04.990406Z",
+    "distilled_at": "2026-03-12T16:51:04.990406Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/page_20260312_www_kleinerperkins_com_case-study_loom.md",
+    "source_type": "document",
+    "content_hash": "c2346e92504a76f4d6172bdc2812d8f206ed9f41c9df1124f5f2e04cc0ac04db",
+    "first_seen_at": "2026-03-12T16:52:32.412670Z",
+    "distilled_at": "2026-03-12T16:52:32.412670Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/page_20260312_www_kleinerperkins_com_case-study_rippling.md",
+    "source_type": "document",
+    "content_hash": "70b487af2c52c213fa9454e3abf016a67ba5c023b0e78545af4a0ecc0be34c30",
+    "first_seen_at": "2026-03-12T16:54:34.256317Z",
+    "distilled_at": "2026-03-12T16:54:34.256317Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/page_20260312_www_kleinerperkins_com_people_investors.md",
+    "source_type": "document",
+    "content_hash": "8209068a3d713410c0960b739646f82e71d43d718968ced01810143170f101be",
+    "first_seen_at": "2026-03-12T16:55:15.597962Z",
+    "distilled_at": "2026-03-12T16:55:15.597962Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/page_20260312_www_kleinerperkins_com_perspectives_internet-trends-r.md",
+    "source_type": "document",
+    "content_hash": "7f0040ad080291128422ae1fca0ecab8bd64e9f91d2d84fe7e9561b38ef8f5cf",
+    "first_seen_at": "2026-03-12T16:56:41.286203Z",
+    "distilled_at": "2026-03-12T16:56:41.286203Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/page_20260312_www_kleinerperkins_com_podcasts.md",
+    "source_type": "document",
+    "content_hash": "17d15c475b4078cba12bb2784da026f1548b5f54c29746712120ce57312b270b",
+    "first_seen_at": "2026-03-12T16:57:36.362946Z",
+    "distilled_at": "2026-03-12T16:57:36.362946Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/page_20260312_www_nrel_gov_careers_post-docs.md",
+    "source_type": "document",
+    "content_hash": "fce84346b2e4dc8639dfe0f08e2de7fd1e6fe36202f5ebbbf81ceafc31f6620c",
+    "first_seen_at": "2026-03-12T16:58:44.342569Z",
+    "distilled_at": "2026-03-12T16:58:44.342569Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/page_20260312_www_nrel_gov_news_podcast.md",
+    "source_type": "document",
+    "content_hash": "9ce6e4e9198b5a4087bf2b3f0d2ce3a84173b5821fbf22fd586c364a4e97829f",
+    "first_seen_at": "2026-03-12T16:59:56.465744Z",
+    "distilled_at": "2026-03-12T16:59:56.465744Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/page_20260312_www_paulgraham_com_foundermode_html.md",
+    "source_type": "document",
+    "content_hash": "529673f26eac548fd8ca85563410ec750ebf15383b69ef902b67173a60b509e3",
+    "first_seen_at": "2026-03-12T17:01:51.494612Z",
+    "distilled_at": "2026-03-12T17:01:51.494612Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/page_20260312_www_sandia_gov_careers_career-possibilities_s.md",
+    "source_type": "document",
+    "content_hash": "56110d1cee0e620c45b3e07626941c305e76fa1a5f601d6faba232d5269d784e",
+    "first_seen_at": "2026-03-12T17:03:06.958032Z",
+    "distilled_at": "2026-03-12T17:03:06.958032Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/page_20260312_www_sequoiacap_com_our-founders.md",
+    "source_type": "document",
+    "content_hash": "2b1f83885bc0a402e9b45552ae3299e3480812bf995c60d2c51b8b8feaf9b0e7",
+    "first_seen_at": "2026-03-12T17:03:58.306135Z",
+    "distilled_at": "2026-03-12T17:03:58.306135Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/page_20260312_www_ycombinator_com_blog.md",
+    "source_type": "document",
+    "content_hash": "03950a1c82157874acaeb8b6894c3193c929b32e5bd1026e576b90f5a63220de",
+    "first_seen_at": "2026-03-12T17:05:20.349699Z",
+    "distilled_at": "2026-03-12T17:05:20.349699Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/page_20260312_www_ycombinator_com_blog_the-yc-ai-student-starter.md",
+    "source_type": "document",
+    "content_hash": "e703ea78d2260afc69a0ec3cc7a5b6e1d3cede7deb0b625edc2e4a574e9f2350",
+    "first_seen_at": "2026-03-12T17:06:27.449948Z",
+    "distilled_at": "2026-03-12T17:06:27.449948Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/page_20260312_www_ycombinator_com_cofounder-matching.md",
+    "source_type": "document",
+    "content_hash": "c403fc8beeef47bfe9a99ac5bcfa5835399de7afd5e86cf9322a85089f7200d5",
+    "first_seen_at": "2026-03-12T17:07:50.619275Z",
+    "distilled_at": "2026-03-12T17:07:50.619275Z"
+  },
+  {
+    "id": "/workspace/待蒸馏/page_20260312_www_ycombinator_com_investors.md",
+    "source_type": "document",
+    "content_hash": "494fc029734ea5192e8023a586fa03a386048f29a3dd1eaf990b6b134ba2de1b",
+    "first_seen_at": "2026-03-12T17:09:09.791512Z",
+    "distilled_at": "2026-03-12T17:09:09.791512Z"
   }
 ]
